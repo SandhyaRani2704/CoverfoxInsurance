@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launcing CoverFox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Female Gender Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Health Plan Next Button]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Age Drop Down]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Member Details Next Button]]>
+    </line>
+    <line>
+      <![CDATA[Entering Pincode]]>
+    </line>
+    <line>
+      <![CDATA[Entering Phone Number]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[Fetching Result From Text]]>
+    </line>
+    <line>
+      <![CDATA[Fetching Result From Banner]]>
+    </line>
+    <line>
+      <![CDATA[TC is Passed]]>
+    </line>
+    <line>
+      <![CDATA[saved Screenshot atD:\Software Testing\Screenshot\coverFoxValidating_TextResult_And_BannerResult_2024.01.09.22.44.04.png]]>
+    </line>
+    <line>
+      <![CDATA[Closing CoverFox]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-09T22:43:05 IST" name="Default suite" finished-at="2024-01-09T22:44:10 IST" duration-ms="65542">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T22:43:05 IST" name="Default test" finished-at="2024-01-09T22:44:10 IST" duration-ms="65542">
+      <class name="coverFoxTest.TC06_Validating_the_Plan_Results">
+        <test-method is-config="true" signature="launchCoverFox()[pri:0, instance:coverFoxTest.TC06_Validating_the_Plan_Results@4b013c76]" started-at="2024-01-09T22:43:05 IST" name="launchCoverFox" finished-at="2024-01-09T22:43:19 IST" duration-ms="14260" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launcing CoverFox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchCoverFox -->
+        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:coverFoxTest.TC06_Validating_the_Plan_Results@4b013c76]" started-at="2024-01-09T22:43:19 IST" name="enterMemberDetails" finished-at="2024-01-09T22:43:43 IST" duration-ms="24521" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Female Gender Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Health Plan Next Button]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Age Drop Down]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Member Details Next Button]]>
+            </line>
+            <line>
+              <![CDATA[Entering Pincode]]>
+            </line>
+            <line>
+              <![CDATA[Entering Phone Number]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Next Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterMemberDetails -->
+        <test-method signature="Validating_TextResult_And_BannerResult()[pri:0, instance:coverFoxTest.TC06_Validating_the_Plan_Results@4b013c76]" started-at="2024-01-09T22:43:43 IST" name="Validating_TextResult_And_BannerResult" finished-at="2024-01-09T22:44:04 IST" duration-ms="20879" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Fetching Result From Text]]>
+            </line>
+            <line>
+              <![CDATA[Fetching Result From Banner]]>
+            </line>
+            <line>
+              <![CDATA[TC is Passed]]>
+            </line>
+            <line>
+              <![CDATA[saved Screenshot atD:\Software Testing\Screenshot\coverFoxValidating_TextResult_And_BannerResult_2024.01.09.22.44.04.png]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Validating_TextResult_And_BannerResult -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:coverFoxTest.TC06_Validating_the_Plan_Results@4b013c76]" started-at="2024-01-09T22:44:05 IST" name="CloseBrowser" finished-at="2024-01-09T22:44:10 IST" duration-ms="5459" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing CoverFox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- coverFoxTest.TC06_Validating_the_Plan_Results -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
