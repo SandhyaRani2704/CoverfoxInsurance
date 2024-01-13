@@ -4,7 +4,8 @@ public class MyClass {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Adding Class");
+		System.out.println("Sandhy");
+
 	}
 
 }
